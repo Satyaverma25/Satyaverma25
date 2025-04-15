@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey , I am Satya Prakash
 👨‍💻 I'm currently working on learning Java backend development and building small projects using Spring Boot and MySQL.<br>🤝 I'm looking to collaborate on Java backend projects or open-source backend tools.<br>🧠 I'm looking for help with understanding advanced Spring Boot concepts and best practices for REST API development.<br>🌱 I'm currently learning Java | Spring Boot | REST APIs | MySQL | Git & GitHub .<br>⚡ Fun fact  I love breaking big problems into small, logical steps — just like debugging code 😄
 
 
