@@ -26,6 +26,7 @@
 ### 🧰 Tech Stack & Tools
 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
@@ -34,6 +35,7 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
 
 
 ---
